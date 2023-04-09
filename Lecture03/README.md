@@ -1,3 +1,3 @@
-# Lecture03
-* VI
-* G++
+#Lecture03
+* vim
+* g++
