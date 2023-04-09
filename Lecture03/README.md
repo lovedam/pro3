@@ -1,3 +1,3 @@
-#Lecture03
+# Lecture03
 * vim
 * g++
